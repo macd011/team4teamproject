@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Conditioning Station Login Page"
+		},
+		{
+			"path": "../Conditioning Station Signup Page"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Conditioning Station Home Page"
+	}
+}
